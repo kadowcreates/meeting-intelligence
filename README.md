@@ -1,3 +1,5 @@
+> **Moved.** This skill now lives in [kadowcreates/kadow-mode](https://github.com/kadowcreates/kadow-mode/tree/main/skills/meeting-intelligence), with the other kadow-mode skills. This repo is archived.
+
 # Meeting Intelligence
 
 Skill that turns raw meeting transcripts into structured, actionable summaries for engineering and operations teams.
